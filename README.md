@@ -21,6 +21,6 @@ This will clone the repositoty into your local folder.
  1. jQuery.
  1. Git.
 ### Live Site.
-View [live](https://299hannah.github.io/-Delani-Studio/)
+View [live](https://299hannah.github.io/-Delani-Studio/).
 Licence
 This project is under the [MIT licence](licence).
