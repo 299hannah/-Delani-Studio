@@ -15,12 +15,12 @@ Use this command to clone `$ git clone https://github.com/299hannah/-Delani-Stud
 This will clone the repositoty into your local folder.
 
 ### Technologies Used
- HTML
- CSS
- Javascript
- jQuery
- Git
+ 1. HTML.
+ 1. CSS.
+ 1. Javascript.
+ 1. jQuery.
+ 1. Git.
 ### Live Site.
 View [live](https://299hannah.github.io/-Delani-Studio/)
 Licence
-This project is under the [MIT licence](licence)
+This project is under the [MIT licence](licence).
