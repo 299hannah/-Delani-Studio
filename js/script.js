@@ -22,6 +22,7 @@ $(".product-img").click(function(){
   $(this).hide();
   $(".product").toggle();
 });
+
 $(".product").click(function(){
   $(this).hide();
   $(".product-img").toggle();
