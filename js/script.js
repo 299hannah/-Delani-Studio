@@ -18,21 +18,20 @@ $(".design").click(function () {
   $(".design-img").toggle();
 });
 
-$(".product-img").click(function(){
+$(".product-img").click(function () {
   $(this).hide();
   $(".product").toggle();
 });
 
-$(".product").click(function(){
+$(".product").click(function () {
   $(this).hide();
   $(".product-img").toggle();
 });
 
-$(document).ready(function(){
-  $(".img1").mouseover(function(){
+$(document).ready(function () {
+  $(".img1").mouseover(function () {
     $("#port").show();
-  }).mouseout(function(){
+  }).mouseout(function () {
     $("#port").hide();
   });
 });
-
