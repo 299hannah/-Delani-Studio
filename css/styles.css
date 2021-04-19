@@ -13,21 +13,17 @@
   padding-top: 5%;
   padding-bottom: 5%;
 }
-
 .logo {
-  /* text-align:center; */
+ 
   margin-top: 12px;
   margin-bottom: 34px;
-
 }
-
 .about {
   text-align: center;
   font-size: 17px;
   margin-top: 5%;
   margin-bottom: 5%;
 }
-
 .services {
   background-image: url("../assets/backgrounds/s_image.jpg");
   background-repeat: no-repeat;
