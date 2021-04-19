@@ -12,7 +12,6 @@ $(".design-img").click(function () {
   $(this).hide();
   $(".design").toggle();
 });
-
 $(".design").click(function () {
   $(this).hide();
   $(".design-img").toggle();
