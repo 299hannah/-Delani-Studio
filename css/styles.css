@@ -134,3 +134,9 @@ input {
 footer {
   text-align: center;
 }
+#mc_embed_signup {
+  align-items: center;
+ text-align: center;
+  clear: left;
+  font: 14px Helvetica, Arial, sans-serif;
+}
